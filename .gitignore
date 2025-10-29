@@ -1,0 +1,6 @@
+chatbot/
+__pycache__/
+*.pyc
+chat_history.csv
+.env
+
